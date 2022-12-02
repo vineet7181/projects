@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+.a{
+    color: black;
+    text-shadow: 1px 1px 2px magenta;
+    text-shadow: 1px 10px red;
+}
